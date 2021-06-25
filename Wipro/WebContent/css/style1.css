@@ -1,0 +1,22 @@
+@CHARSET "ISO-8859-1";.
+
+.img-des2
+{
+	
+	width:1200px;
+	height:700px;
+	position:fixed;
+	z-index:-1;
+}
+
+h1
+{
+	color:red;
+	
+}
+
+.img-des1
+{
+	width:100px;
+	height:100px;
+}

@@ -1,0 +1,36 @@
+@CHARSET "ISO-8859-1";
+h1
+{
+	color:red;
+}
+.a
+{
+	width:180px;
+	height:35px;
+	border-radius:20px;
+	text-align:center;
+	font-size:20px;
+}
+.b
+{
+	margin-top:15px;
+	width:180px;
+	height:35px;
+	border-radius:20px;
+	text-align:center;
+	font-size:20px;
+}
+.c
+{
+	margin-top:15px;
+	width:120px;
+	height:35px;
+	border-radius:20px;
+	text-align:center;
+	font-size:20px;
+}
+.form-des
+{
+	margin-left:600px;
+	margin-top:100px;
+}
